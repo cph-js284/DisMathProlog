@@ -12,7 +12,7 @@ A small Prolog database containing 2 structures;
 <br>
 <br>
 <b>The database includes functions:</b> <br>
-1) departmentmembers(<NAME OF DEPARTMENT(board,it,accounting)>): This function will list the members of the specified department.
+1) departmentmembers(<i>NAME OF DEPARTMENT(board,it,accounting)></i>): This function will list the members of the specified department.
 <br><br>
-2) canOrder(<FROM>, <TO>): returns a bool, indicating if a person can issue orders to another person according to the company structure.
+2) canOrder(<i>FROM, TO</i>): returns a bool, indicating if a person can issue orders to another person according to the company structure.
 
