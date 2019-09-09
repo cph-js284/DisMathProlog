@@ -11,8 +11,8 @@ A small Prolog database containing 2 structures;
 
 <br>
 <br>
-The database includes functions:
+### The database includes functions:<br>
 1) departmentmembers(<NAME OF DEPARTMENT(board,it,accounting)>): This function will list the members of the specified department.
-<br>
+<br><br>
 2) canOrder(<FROM>, <TO>): returns a bool, indicating if a person can issue orders to another person according to the company structure.
 
